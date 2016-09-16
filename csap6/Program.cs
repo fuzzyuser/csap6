@@ -10,7 +10,7 @@ namespace csap6
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("");
+            Console.WriteLine("abc");
         }
     }
 }
